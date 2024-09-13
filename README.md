@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+Desde 2018, cultivó una gran pasión por la informática y la programación, lo que nació de mi interés por la investigación. Este impulso me llevó a participar en diversos bootcamps y diplomados especializados en tecnologías como SQL, XML, CSS3, HTML y JavaScript. Mi deseo de seguir aprendiendo no ha disminuido; por el contrario, estoy más entusiasmada que nunca por fortalecer mis habilidades y adquirir nuevos conocimientos.
+
+Me encanta leer, disfrutar de series y películas, y mantenerme en constante actividad, ya que creo que la curiosidad y el movimiento son clave.
+
+
+
 <!--
 **Cami226/Cami226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
